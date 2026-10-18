@@ -70,6 +70,7 @@
 
 `AI Security` · `Offensive Security` · `Cloud Security` · `Software Engineering`
 
+</div>
 
 <h2>Security Engineering Identity</h2>
 
