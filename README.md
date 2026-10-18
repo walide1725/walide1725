@@ -24,6 +24,7 @@
   <img src="https://img.shields.io/badge/PERSONAL_WEBSITE-VISIT-00A896?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Personal Website"/>
 </a>
 
+<br/>
 
 <a href="https://github.com/Oualidelaz">
   <img src="https://img.shields.io/badge/FOLLOW-@OUALIDELAZ-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Follow on GitHub"/>
