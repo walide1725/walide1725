@@ -6,32 +6,28 @@
 
 <br/><br/>
 
+
 <div align="center">
 
-<a href="YOUR_LINKEDIN_URL">
-  <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-  
-<a href="https://github.com/Oualidelaz">
-  <img src="https://img.shields.io/badge/GITHUB-CONNECT-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-  
-<a href="YOUR_MEDIUM_URL">
-  <img src="https://img.shields.io/badge/MEDIUM-READ_ARTICLES-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
-</a>
-  
-<a href="YOUR_PERSONAL_WEBSITE_URL">
-  <img src="https://img.shields.io/badge/PERSONAL_WEBSITE-VISIT-00A896?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Personal Website"/>
-</a>
-
-<br/>
-
-<a href="https://github.com/Oualidelaz">
-  <img src="https://img.shields.io/badge/FOLLOW-@OUALIDELAZ-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Follow on GitHub"/>
-</a>
+  <p>
+    <a href="YOUR_LINKEDIN_URL">
+      <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+    <a href="YOUR_GITHUB_URL">
+      <img src="https://img.shields.io/badge/GITHUB-24292F?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    </a>
+    <a href="YOUR_MEDIUM_URL">
+      <img src="https://img.shields.io/badge/MEDIUM-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
+    </a>
+    <a href="YOUR_PERSONAL_WEBSITE_URL">
+      <img src="https://img.shields.io/badge/WEBSITE-00BFA6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Personal website"/>
+    </a>
+    <a href="https://github.com/Oualidelaz">
+      <img src="https://img.shields.io/badge/FOLLOW-6F42C1?style=for-the-badge&logo=github&logoColor=white" alt="Follow on GitHub"/>
+    </a>
+  </p>
 
 </div>
-
 
 <div align="center">
 
