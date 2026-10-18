@@ -93,3 +93,35 @@
   and agentic systems, including how LLMs interact with external content,
   retrieval systems, tools, memory, APIs, and infrastructure.
 </p>
+
+
+
+
+<!-- Certification Roadmap -->
+
+<h2 align="left">Certification Roadmap</h2>
+
+<p align="left">
+  My current certification goals reflect my commitment to developing practical skills
+  across cloud security, offensive security, and security operations.
+</p>
+
+<p align="center">
+  <img
+    src="./assets/b.gif"
+    width="100%"
+    alt="Certification roadmap illustrating learning goals for CompTIA CySA+, CRTP, HTB COAE, and AWS Cloud Security."
+  />
+</p>
+
+<p align="left">
+  <strong>Learning path:</strong>
+  Security Operations · Active Directory Penetration Testing ·
+  Advanced Offensive Security · AWS Cloud Security
+</p>
+
+<p align="left">
+  <sub>
+    These are target certifications and learning goals, not claims of certifications already earned.
+  </sub>
+</p>
