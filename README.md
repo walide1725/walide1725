@@ -32,3 +32,40 @@
 
 </div>
 
+
+<div align="center">
+
+<h2>Security Engineering in Progress</h2>
+
+<p>
+  Building, testing, and securing modern systems across
+  <strong>AI, networks, and cloud infrastructure.</strong>
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/AI_Security-111827?style=flat-square&logo=openai&logoColor=00D9FF" alt="AI Security"/>
+  <img src="https://img.shields.io/badge/Offensive_Security-111827?style=flat-square&logo=kalilinux&logoColor=9D7BFF" alt="Offensive Security"/>
+  <img src="https://img.shields.io/badge/Network_Security-111827?style=flat-square&logo=cisco&logoColor=00D9FF" alt="Network Security"/>
+  <img src="https://img.shields.io/badge/Cloud_Security-111827?style=flat-square&logo=icloud&logoColor=00D9FF" alt="Cloud Security"/>
+</p>
+
+<p>
+  <code>UNDERSTAND</code> &nbsp; / &nbsp;
+  <code>TEST</code> &nbsp; / &nbsp;
+  <code>SECURE</code>
+</p>
+
+</div>
+
+---
+
+<h3>About Me</h3>
+
+- Exploring AI security, LLMs, AI agents, and AI red teaming.
+- Developing practical skills in penetration testing and security assessment.
+- Learning network, operating system, and cloud infrastructure security.
+- Building software and security projects through hands-on experimentation.
+
+<h3>Current Focus</h3>
+
+`AI Security` · `Offensive Security` · `Cloud Security` · `Software Engineering`
