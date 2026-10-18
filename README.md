@@ -71,64 +71,25 @@
 `AI Security` · `Offensive Security` · `Cloud Security` · `Software Engineering`
 
 
-## Security Engineering Identity
+<h2>Security Engineering Identity</h2>
 
-I'm building toward **Security Engineering**, with a focus on understanding how modern systems work, how their trust boundaries fail, and how security weaknesses can be identified, validated, and mitigated.
+<p>
+  I'm building toward <strong>Security Engineering</strong>, with a focus on
+  understanding how modern systems work, how their trust boundaries fail,
+  and how security weaknesses can be identified, validated, and mitigated.
+</p>
 
-My technical interests span **AI Security, Offensive Security, Network Security, and Cloud Security**. I approach these domains from an engineering perspective: studying the underlying architecture, examining attack surfaces, testing security assumptions in authorized environments, and documenting findings in a way that others can reproduce and verify.
+<p>
+  My technical interests span <strong>AI Security, Offensive Security,
+  Network Security, and Cloud Security</strong>. I approach these domains
+  from an engineering perspective: studying the underlying architecture,
+  examining attack surfaces, testing security assumptions in authorized
+  environments, and documenting findings in a reproducible way.
+</p>
 
-I am particularly interested in the security of AI-enabled applications and agentic systems. This includes how LLMs interact with external content, retrieval systems, tools, memory, APIs, and infrastructure—and how weaknesses in those interactions can affect confidentiality, integrity, authorization, and system behavior.
+<p>
+  I'm particularly interested in the security of AI-enabled applications
+  and agentic systems, including how LLMs interact with external content,
+  retrieval systems, tools, memory, APIs, and infrastructure.
+</p>
 
-My broader goal is to develop the ability to assess security across the entire stack, from application logic and AI components to operating systems, networks, identity systems, and cloud infrastructure.
-
-### Engineering Methodology
-
-My approach to security work follows a repeatable process:
-
-1. **Understand** — Map the architecture, components, trust boundaries, identities, and data flows.
-2. **Assess** — Identify attack surfaces, security assumptions, misconfigurations, and potential failure paths.
-3. **Test** — Validate findings through controlled, authorized experiments and reproducible test cases.
-4. **Document** — Record the methodology, evidence, impact, limitations, and conditions required to reproduce a result.
-5. **Mitigate** — Identify appropriate controls and explain why they address the underlying weakness.
-6. **Verify** — Retest the relevant behavior and document whether the mitigation works under the tested conditions.
-
-The objective is not simply to demonstrate that something can fail, but to understand **why it fails, what the impact is, and how the weakness can be addressed**.
-
-### Technical Scope
-
-| Domain | Areas of Interest |
-|---|---|
-| **AI Security** | LLM security, prompt injection, RAG security, AI agents, tool interactions, AI red teaming |
-| **Offensive Security** | Penetration testing, vulnerability validation, attack-surface analysis, Active Directory security |
-| **Network Security** | Network protocols, service exposure, segmentation, access controls, traffic analysis |
-| **Systems Security** | Linux, Windows, operating-system security, permissions, service configuration |
-| **Cloud Security** | AWS, IAM, identity boundaries, cloud configuration, infrastructure security |
-| **Software Engineering** | Python, programming fundamentals, automation, security tooling, code analysis |
-
-### AI Security & System Boundaries
-
-One of my main areas of focus is understanding how AI systems behave when connected to real applications and infrastructure.
-
-Topics I explore include:
-
-- Direct and indirect prompt injection.
-- Retrieval-Augmented Generation (RAG) security and untrusted data ingestion.
-- AI agent tool permissions and execution boundaries.
-- Memory, context isolation, and cross-session security.
-- API authorization, identity propagation, and multi-tenant isolation.
-- Security controls, guardrails, logging, and mitigation validation.
-
-I am interested in both offensive testing and defensive engineering: identifying failure conditions, understanding their root causes, and evaluating controls that reduce the associated risks.
-
-### Projects, Research & Evidence
-
-This GitHub profile is intended to document practical engineering work, security experiments, and technical progress.
-
-- **Security Engineering Projects** — Software, automation, and tools developed to solve practical problems.
-- **AI Security Labs** — Controlled experiments involving LLMs, RAG pipelines, AI agents, and application boundaries.
-- **Infrastructure Security Labs** — Hands-on work involving networks, operating systems, Active Directory, and cloud environments.
-- **Technical Documentation** — Methodologies, test cases, findings, limitations, and mitigation strategies.
-
-I aim to make technical work understandable and reproducible wherever possible. Findings should be supported by evidence, and conclusions should remain within the scope of what was actually tested.
-
-[Browse my repositories](https://github.com/Oualidelaz?tab=repositories)
