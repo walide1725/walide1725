@@ -72,63 +72,53 @@
 
 
 
+
 <h2 align="center">Engineering & Security Portfolio</h2>
 
 <p align="center">
-  Practical projects, security research, hands-on labs, and technical write-ups documenting my journey in Security Engineering.
+  <i>Learn by building. Improve through testing. Secure by design.</i>
 </p>
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>Featured Engineering Projects</h3>
-      <p>
-        Software and security projects focused on Python, automation,
-        secure system design, and AI application security.
-      </p>
-      <p>
-        <a href="https://github.com/Oualidelaz?tab=repositories">
-          Explore Projects →
-        </a>
-      </p>
+      <h3>⌘ Featured Projects</h3>
+      <p>Practical software and security engineering projects.</p>
+      <ul>
+        <li><a href="https://github.com/Oualidelaz">Python Security Tools</a></li>
+        <li><a href="https://github.com/Oualidelaz">RAG Security Lab</a></li>
+        <li><a href="https://github.com/Oualidelaz">Network & Systems Labs</a></li>
+      </ul>
     </td>
     <td width="50%" valign="top">
-      <h3>Security Research & Labs</h3>
+      <h3>⌕ Security Research & Labs</h3>
+      <p>Authorized experiments, security assessments, technical findings, and mitigation strategies.</p>
       <p>
-        Hands-on experiments in AI red teaming, penetration testing,
-        network security, and infrastructure security in authorized labs.
-      </p>
-      <p>
-        <a href="https://github.com/Oualidelaz?tab=repositories">
-          Explore Research →
-        </a>
+        <code>AI Security</code>
+        <code>Offensive Security</code>
+        <code>Cloud Security</code>
       </p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>Certification Roadmap</h3>
-      <p>
-        Working toward CySA+, CRTP, HTB COAE, and AWS security credentials,
-        alongside continuous practical learning.
-      </p>
-      <p>
-        <a href="https://github.com/Oualidelaz">
-          View Learning Journey →
-        </a>
-      </p>
+      <h3>⌁ Certification Roadmap</h3>
+      <p>Current learning goals and progress toward security certifications.</p>
+      <ul>
+        <li>CompTIA CySA+</li>
+        <li>HTB CPTS / COAE track</li>
+        <li>CRTP</li>
+        <li>AWS Security</li>
+      </ul>
+      <p><sub>Target certifications — not yet claimed as earned.</sub></p>
     </td>
     <td width="50%" valign="top">
-      <h3>Technical Write-ups</h3>
-      <p>
-        Documenting technical challenges, security findings, lessons learned,
-        and practical approaches to improving system security.
-      </p>
-      <p>
-        <a href="https://medium.com/">
-          Read Articles →
-        </a>
-      </p>
+      <h3>▤ Technical Write-ups</h3>
+      <p>Notes and articles documenting what I learn, experiments I perform, and security concepts I explore.</p>
+      <ul>
+        <li><a href="https://github.com/Oualidelaz">Technical Notes & Documentation</a></li>
+        <li><a href="https://medium.com/">Medium Articles</a></li>
+      </ul>
     </td>
   </tr>
 </table>
@@ -136,9 +126,5 @@
 ---
 
 <p align="center">
-  <code>UNDERSTAND</code> ·
-  <code>TEST</code> ·
-  <code>DOCUMENT</code> ·
-  <code>SECURE</code>
+  <b>UNDERSTAND · TEST · DOCUMENT · MITIGATE · VERIFY</b>
 </p>
-
