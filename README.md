@@ -69,3 +69,76 @@
 <h3>Current Focus</h3>
 
 `AI Security` · `Offensive Security` · `Cloud Security` · `Software Engineering`
+
+
+
+<h2 align="center">Engineering & Security Portfolio</h2>
+
+<p align="center">
+  Practical projects, security research, hands-on labs, and technical write-ups documenting my journey in Security Engineering.
+</p>
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Featured Engineering Projects</h3>
+      <p>
+        Software and security projects focused on Python, automation,
+        secure system design, and AI application security.
+      </p>
+      <p>
+        <a href="https://github.com/Oualidelaz?tab=repositories">
+          Explore Projects →
+        </a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Security Research & Labs</h3>
+      <p>
+        Hands-on experiments in AI red teaming, penetration testing,
+        network security, and infrastructure security in authorized labs.
+      </p>
+      <p>
+        <a href="https://github.com/Oualidelaz?tab=repositories">
+          Explore Research →
+        </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Certification Roadmap</h3>
+      <p>
+        Working toward CySA+, CRTP, HTB COAE, and AWS security credentials,
+        alongside continuous practical learning.
+      </p>
+      <p>
+        <a href="https://github.com/Oualidelaz">
+          View Learning Journey →
+        </a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Technical Write-ups</h3>
+      <p>
+        Documenting technical challenges, security findings, lessons learned,
+        and practical approaches to improving system security.
+      </p>
+      <p>
+        <a href="https://medium.com/">
+          Read Articles →
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+<p align="center">
+  <code>UNDERSTAND</code> ·
+  <code>TEST</code> ·
+  <code>DOCUMENT</code> ·
+  <code>SECURE</code>
+</p>
+
